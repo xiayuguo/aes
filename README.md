@@ -4,7 +4,7 @@ AES/CBC/PKCS7Padding 加/解密的实现
 
 ## Installation
 ```golang
-go get github.com/hugoxia/aes
+go get github.com/xiayuguo/aes
 ```
 
 ## Quick Start
@@ -13,7 +13,7 @@ package main
 
 import (
     "fmt"
-    "github.com/hugoxia/aes"
+    "github.com/xiayuguo/aes"
 )
 
 func main(){
